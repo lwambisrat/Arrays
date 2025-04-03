@@ -1,4 +1,4 @@
-//1  displaylast element
+//1  display last element
 let arr1 = [3,7,34,90,12];
 let arr2 = [true, "green", "where",12,56];
 
