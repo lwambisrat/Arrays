@@ -9,7 +9,7 @@ console.log(arr2[arr2.length - 1]);
 
 let myPets = ["Cow", "Bird", "Snake", "Dog"];
 console.log(myPets.join()); 
-console.log(myPets.join(' ')); 
+// or console.log(myPets.join(' ')); 
 
 //3 sort arrays
 
@@ -37,7 +37,7 @@ console.log(result);
 //6 sort worrd
 
 let word = "renniw";
-let sorted = word.split('').sort().reverse().join('');
+let sorted = word.split('').sort().join('');
 console.log(sorted); 
 
 //7 insert word
